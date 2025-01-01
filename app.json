@@ -1,18 +1,19 @@
 {
-  "name": "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
-  "description": "Javascript WhatsApp bot made by Manul Official",
+  "name": "🧚‍♀️ÖVÏÇ-𝗠𝗗-𝗩❼💗",
+  "description": "Javascript WhatsApp bot made by ÖVÏÇ Official",
   "logo": "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Manu-MD&qJ0HSAqb#cnpJpXVuVEv_b1lrt68ygVVB7zZKOIsneHfmeXru2pg",
       "required": true
     },  
 
     "MONGODB": {
-      "description": "Put your mongodb url here..",
+      "description": "mongodb+srv://TanTan:TanTan@cluster0.fhjwc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      ",
       "required": true
     }   
 },
