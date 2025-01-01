@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
+//  * @project_name : ÖVÏÇ-MD
+//  * @author : ÖVÏÇ Official
 //  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @description : ÖVÏÇ-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
+//base by HÄSSÄN ÖVÏÇ Official
 //GitHub: @manulofficial7
 //WhatsApp: +94742274855
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//   * Created By Github: öviç official7.
+//   * Credit To övïç Official
+//   * © 2024 ÖVÏÇ-MD-V7.
 // ⛥┌┤
 // */
 
