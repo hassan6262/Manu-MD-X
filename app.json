@@ -12,8 +12,7 @@
     },  
 
     "MONGODB": {
-      "description": "mongodb+srv://TanTan:TanTan@cluster0.fhjwc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-      ",
+      "description": "mongodb+srv://TanTan:TanTan@cluster0.fhjwc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     }   
 },
